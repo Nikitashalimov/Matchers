@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/dfv3yg39l0dja50a/branch/master?svg=true)](https://ci.appveyor.com/project/Nikitashalimov/matchers/branch/master)
+
 # Домашнее задание к лекции «Unit-тестирование»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
